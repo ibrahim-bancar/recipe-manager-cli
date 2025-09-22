@@ -1,0 +1,24 @@
+[
+    {
+        "name": "pastırmalı yumurta",
+        "ingredients": [
+            "pastırma",
+            "yumurta"
+        ],
+        "instructions": [
+            "kasarı koy",
+            "cırp"
+        ]
+    },
+    {
+        "name": "pastirmalı yumurta",
+        "ingredients": [
+            "pastırma",
+            "yumurta"
+        ],
+        "instructions": [
+            "doğru chop",
+            "chopc"
+        ]
+    }
+]
